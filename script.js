@@ -3,7 +3,7 @@ const chatlist = document.querySelector(".chatlist");
 const suggestions=document.querySelectorAll(".suggestion-list .suggestion");
 let userMessage = null;
 
-const API_KEY = "AIzaSyDNNiF9QjIdqrHWgJqRBKjdWVd1iTA0nMg";
+const API_KEY = "Enter your own API KEY";
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 const createMessageElement = (content, className) => {

@@ -2,6 +2,8 @@
 
 Welcome to PlantTherapy, an innovative website designed to provide comprehensive guidance on various plant-related topics. Our platform utilizes the advanced capabilities of the Gemini AI API to offer accurate and reliable information to users seeking answers to common questions about plants, gardening, and herbal remedies.
 
+https://github.com/user-attachments/assets/cc50f062-3285-4e8c-b430-3077c6dc2d4a
+
 ## Overview
 
 PlantTherapy is a resourceful platform dedicated to:
